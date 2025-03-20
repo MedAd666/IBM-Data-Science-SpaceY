@@ -45,7 +45,7 @@ Instead of relying on rocket science, we'll use **public data** and **machine le
 Here’s how the project is organized:
 
 - **Data Collection**: Gather information about SpaceX launches.
-     - Lab 1: Collecting the data
+     - [Lab 1: Collecting the Data] (jupyter-labs-spacex-data-collection-api(Data-Collection).ipynb)
 - **Data Analysis**: Explore the data to identify trends and patterns.
 - **Dashboard Creation**: Build interactive dashboards for team insights.
 - **Machine Learning**: Train a model to predict first stage landing success.
