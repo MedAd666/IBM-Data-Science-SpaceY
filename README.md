@@ -51,8 +51,8 @@ Here’s how the project is organized:
 - **Data Analysis**: Explore the data to identify trends and patterns.
      - [Lab 3 : SQL Notebook SQL Lite](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
      - [Lab 4 : Exploring and Preparing Data](edadataviz.ipynb)
-     - 
 - **Dashboard Creation**: Build interactive dashboards for team insights.
+     - [Lab 5 : Interactive Visual Analytics with Folium]()
 - **Machine Learning**: Train a model to predict first stage landing success.
 
 ---
