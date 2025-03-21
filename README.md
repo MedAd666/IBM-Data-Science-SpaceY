@@ -50,7 +50,7 @@ Here’s how the project is organized:
      - [Lab 2 : Data Wrangling](labs-jupyter-spacex-Datawrangling.ipynb)
 - **Data Analysis**: Explore the data to identify trends and patterns.
      - [Lab 3 : SQL Notebook SQL Lite](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
-     - [Lab 4 : Exploring and Preparing Data]()
+     - [Lab 4 : Exploring and Preparing Data](edadataviz.ipynb)
      - 
 - **Dashboard Creation**: Build interactive dashboards for team insights.
 - **Machine Learning**: Train a model to predict first stage landing success.
