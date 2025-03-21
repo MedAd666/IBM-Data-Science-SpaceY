@@ -47,7 +47,7 @@ Here’s how the project is organized:
 - **Data Collection**: Gather information about SpaceX launches.
      - [Lab 1.1 : Collecting the Data](jupyter-labs-spacex-data-collection-api(Data-Collection).ipynb)
      - [Lab 1.2 : Web Scraping](jupyter-labs-webscraping.ipynb)
-     - [Lab 2 : Data Wrangling](labs-jupyter-spacex-Data wrangling.ipynb)
+     - [Lab 2 : Data Wrangling](labs-jupyter-spacex-Datawrangling.ipynb)
 - **Data Analysis**: Explore the data to identify trends and patterns.
 - **Dashboard Creation**: Build interactive dashboards for team insights.
 - **Machine Learning**: Train a model to predict first stage landing success.
