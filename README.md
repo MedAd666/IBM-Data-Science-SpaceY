@@ -49,6 +49,8 @@ Here’s how the project is organized:
      - [Lab 1.2 : Web Scraping](jupyter-labs-webscraping.ipynb)
      - [Lab 2 : Data Wrangling](labs-jupyter-spacex-Datawrangling.ipynb)
 - **Data Analysis**: Explore the data to identify trends and patterns.
+     - [Lab 3 : SQL Notebook SQL Lite](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+     - 
 - **Dashboard Creation**: Build interactive dashboards for team insights.
 - **Machine Learning**: Train a model to predict first stage landing success.
 
