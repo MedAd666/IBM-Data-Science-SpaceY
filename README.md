@@ -53,7 +53,7 @@ Here’s how the project is organized:
      - [Lab 4 : Exploring and Preparing Data](edadataviz.ipynb)
 - **Dashboard Creation**: Build interactive dashboards for team insights.
      - [Lab 5 : Interactive Visual Analytics with Folium](lab_jupyter_launch_site_location.ipynb)
-     - [Lab 6 : Build an Interactive Dashboard with Ploty Dash]()
+     - [Lab 6 : Build an Interactive Dashboard with Ploty Dash](spacex_dashboard.py)
 - **Machine Learning**: Train a model to predict first stage landing success.
 
 ---
