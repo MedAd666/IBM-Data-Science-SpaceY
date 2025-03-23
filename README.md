@@ -55,6 +55,7 @@ Here’s how the project is organized:
      - [Lab 5 : Interactive Visual Analytics with Folium](lab_jupyter_launch_site_location.ipynb)
      - [Lab 6 : Build an Interactive Dashboard with Ploty Dash](spacex_dashboard.py)
 - **Machine Learning**: Train a model to predict first stage landing success.
+     - [Lab 7 : Machine Learning](SpaceX_Machine_Learning_Prediction_Part_5.ipynb)
 
 ---
 
